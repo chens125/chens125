@@ -1,5 +1,7 @@
 # Sue's Data Science Portfolio
 
+Data Scientist | Python SQL | Help businesses make data-driven decisions and build AI-Powered data products.
+
 Welcome to Sue's Data Science Portfolio on GitHub! Here, I showcase my learning journey from sales and finance into the exciting world of data science.
 
 ## Career Transition Inspiration:
